@@ -126,3 +126,23 @@ A great project for resumes, system design interviews, and algorithms portfolios
 - Graph-based skill clustering
 - Live rating histogram visualization in Swing
 - Simulation mode generating thousands of players
+
+---
+
+## Demo Preview
+
+Below is a visual demonstration of the matchmaking engine in action, showing player queue input, real-time match formation, and team balancing inside the Swing UI.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9693032f-4a86-438e-911b-e35c29b283a6"
+       alt="Matchmaking Engine Screenshot 1"
+       width="75%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b63fc57-10a7-44ad-aa77-73542132a348"
+       alt="Matchmaking Engine Screenshot 2"
+       width="75%" />
+</p>
+
+
